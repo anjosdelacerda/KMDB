@@ -12,7 +12,7 @@ Python | Django | Django Rest Framework | Sqlite3 | Serializers
 Para clonar o arquivo em sua máquina use o seguinte comando no seu terminal:
 
 ````
-git clone git@github.com:anjosdelacerda/kenzie-pets.git
+git clone git@github.com:anjosdelacerda/KMDB.git
 ````
 
 Para que a aplicação funcione será necessário instalar o Python em sua máquina, você encontrará informações de como fazer isso na <a href="https://docs.python.org/3/tutorial/">documentação</a>. 
