@@ -25,7 +25,7 @@ No terminal dentro da sua pasta clonada crie uma variável de abiente com este c
 python -m venv venv
 ````
 
-Agora ative esta variável de ambiente para que você possa instalas as dependências da aplicação com segurança:
+Agora ative esta variável de ambiente para que você possa instalar as dependências da aplicação com segurança:
 
 ````
 source venv/bin/activate
